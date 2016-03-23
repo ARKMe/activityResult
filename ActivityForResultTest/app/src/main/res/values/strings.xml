@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityForResultTest</string>
+    <string name="testo_bottone_prima_activity">Lancia seconda activity</string>
+    <string name="testo_bottone_seconda_activity">Manda i dati alla prima activity</string>
+    <string name="testo_annullamento_seconda_activity">Nessun dato disponibile</string>
+    <string name="suggerimento_inserimento_dati">Inserisci il dato</string>
+
+    <string name="chiave_per_dato">bello.andrea.activityforresult.chiave_per_dato</string>
+    <string name="testo_bottone_invia">Invia i dati</string>
+    <string name="titolo_prima_activity">PRIMA ACTIVITY</string>
+    <string name="titolo_seconda_activity">SECONDA ACTIVITY</string>
+</resources>
